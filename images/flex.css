@@ -1,0 +1,12 @@
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: bisque;
+}
+.child{
+    width: 300px;
+    height: 350px;
+    padding: 5px;
+    
+}
